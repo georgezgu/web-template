@@ -6,9 +6,9 @@ My version of my class' starting web template.
 
 **Upon completing a project from this template, please do the following:**
 
-1. Remove all template-related information from this readme file. Failure to do so will result in a grade reduction.
-2. Add text that describes your project. Include your name, web address, code/image citations, and any notes.
-3. Put the files that you would upload to a webserver in this folder. Do not put in working files or high PPI images.
+1. Put the files that you would upload to a webserver in this folder. Do not include working files or high PPI images.
+2. Remove all template-related information from this readme file. Failure to do so will result in a grade reduction.
+3. Add text that describes your project. Include your name, web address, code/image citations, and any notes. 
 
 
 ### About the template
