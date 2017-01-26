@@ -1,20 +1,23 @@
-# web1-basic
+# web-template
 
-Starter files for intro web design/development
+My version of my class' starting web template.
 
-STUDENTS: remove this line and the ones above it. Add text that describes your project. Include your name, web address, code/image citations, and any notes. Failure to remove this notice and replace it with appropriate text *will* reduce your grade.
+### Instructions
+
+**Upon completing a project from this template, please do the following:**
+
+1. Remove all template-related information from this readme file. Failure to do so will result in a grade reduction.
+2. Add text that describes your project. Include your name, web address, code/image citations, and any notes.
+3. Put the files that you would upload to a webserver in this folder. Do not put in working files or high PPI images.
 
 
+### About the template
 
-***
+Forked from my professor's original template, web1-basic.
 
-### About this folder
+His homepage can be found at the following link:
 
-Put the files that you would upload to a webserver in this folder. InDesign, Illustrator, and Photoshop files do not belong here, nor do original high-resolution images.
-
-### More on the web1-basic starter project
-
-Compiled by [David Ramos](http://imaginaryterrain.com)
+[Imaginary Terrain](http://imaginaryterrain.com)
 
 The code structure is designed for clarity rather than for browser performance. (Notably, we break CSS out into several files, to help keep code organized.) Even so, the slowdowns will be insignificant for most student/personal sites, and the speed fixes are easy to make.
 
